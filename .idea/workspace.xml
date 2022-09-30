@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b54e2ff-539c-45ec-b653-7d2bcdfdfbb5" name="Changes" comment="Setting up Kotlin Card class">
+    <list default="true" id="5b54e2ff-539c-45ec-b653-7d2bcdfdfbb5" name="Changes" comment="rename main and add deck class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Card.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Card.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/JavaCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Deck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Deck.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +45,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppKt" />
       <module name="Solitaire" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,7 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.AppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -89,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664579764563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Setting up Kotlin Card class">
+      <created>1664580174256</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664580174256</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename main and add deck class">
+      <created>1664580400779</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664580400779</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +132,7 @@
     <MESSAGE value="Initial Project Files" />
     <MESSAGE value="Setting up Card class" />
     <MESSAGE value="Setting up Kotlin Card class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up Kotlin Card class" />
+    <MESSAGE value="rename main and add deck class" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename main and add deck class" />
   </component>
 </project>
