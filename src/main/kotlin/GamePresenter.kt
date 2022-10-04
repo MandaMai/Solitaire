@@ -1,5 +1,5 @@
 object GamePresenter {
-    var view: GameView? = null
+    private var view: GameView? = null
 
     fun setGameView(gameView: GameView) {
         view = gameView
